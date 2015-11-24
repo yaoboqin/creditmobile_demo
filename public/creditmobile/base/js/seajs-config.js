@@ -2,6 +2,7 @@ seajs.config({
   base: "/creditmobile/",
   alias: {
     "jquery": "base/jquery/2.1.4/jquery",
+    "zepto": "base/zepto/1.1.6/zepto",
     "moment": "base/moment/2.10.6/moment",
     "handlebars": "base/handlebars/4.0.5/handlebars",
     "ionic": "base/ionic/1.1.1/ionic",
