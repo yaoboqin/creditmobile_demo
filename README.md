@@ -20,7 +20,7 @@ demo说明
 
 1.所有静态资源文件均在public目录下
 
-2.普通模块采用seajs为模块加载器, angularjs模块采用angular-async-loader（https://github.com/subchen/angular-async-loader）为模块加载器
+2.普通模块采用seajs为模块加载器, angularjs模块采用angular-async-loader为模块加载器https://github.com/subchen/angular-async-loader
 
 3.seajs配置文件在/public/creditmobile/base/js下seajs-config.js中，可配置常用模块
 
