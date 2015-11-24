@@ -10,7 +10,7 @@ define("js/app-route", function (require) {
 
         $ionicConfigProvider.platform.android.navBar.alignTitle('center'); 
 
-        $urlRouterProvider.otherwise('/index');
+        $urlRouterProvider.otherwise('/tab/home');
 
         $stateProvider
             .state('list', {
