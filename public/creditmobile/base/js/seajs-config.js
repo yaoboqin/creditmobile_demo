@@ -11,7 +11,10 @@ seajs.config({
     "angular": "base/angular/1.4.3/angular",
     "angular-animate": "base/angular/1.4.3/angular-animate",
     "angular-sanitize": "base/angular/1.4.3/angular-sanitize",
-    "angular-ui-router": "base/angular/1.4.3/angular-ui-router"
+    "angular-ui-router": "base/angular/1.4.3/angular-ui-router",
+    "flexible": "base/lib-flexible/0.3.4/flexible",
+    "flexible_css": "base/lib-flexible/0.3.4/flexible_css",
+    "makegrid": "base/lib-flexible/0.3.4/makegrid"
   },
   vars: { 
     "version": "1.0"
